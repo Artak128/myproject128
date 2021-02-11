@@ -1,0 +1,77 @@
+.basket {
+    position: relative;
+width: 1440px;
+height: 900px;
+
+
+background: #FFFFFF;
+}
+
+.group31 {
+    position: absolute;
+width: 200px;
+height: 60px;
+left: 1057px;
+top: 406px;
+}
+
+.group30{
+    position: absolute;
+    width: 297px;
+    height: 144px;
+    left: 1008px;
+    top: 292px;
+}
+
+.rectangle19{
+    position: absolute;
+width: 377px;
+height: 441px;
+left: 730px;
+top: 152px;
+
+}
+
+.zindex {
+    position: relative;
+    z-index: 2;
+}
+
+.zindex2 {
+    position: relative;
+    z-index: 1;
+}
+
+.group27{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 462px;
+    top: 406px;
+}
+
+.group26 {
+    position: absolute;
+    width: 297px;
+    height: 144px;
+    left: 413px;
+    top: 292px;
+}
+
+.rectangle14{
+    position: absolute;
+width: 377px;
+height: 441px;
+left: 135px;
+top: 152px;
+}
+
+.zindex3{
+    position: relative;
+    z-index: 2;
+}
+
+.zindex4{
+    position: relative;
+    z-index: 1;
+}

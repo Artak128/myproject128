@@ -1,0 +1,104 @@
+.nav {
+    position: relative;
+    z-index: 3;
+    
+    
+  
+   
+}
+
+.your {
+    position: absolute;
+    top: 30px;
+    left: 135px;
+}
+
+.interior {
+    position: absolute;
+    top:58px;
+    left:169px;
+} 
+
+
+
+.item a {
+    color: black;
+    font-family: MADE Canvas;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-decoration: none;
+
+
+color: #000000;
+}
+
+.item a.active {
+    color: #772A22;
+}
+
+.logo {
+    position: absolute;
+left: 135px;
+right: 1107px;
+top: 30px;
+bottom: 776px;
+}
+
+.furniture{
+    position: absolute;
+top:42px;
+left:673px;
+
+}
+
+.lighting {
+    position: absolute;
+top:42px;
+left:810px;
+
+}
+
+.decor {
+    position: absolute;
+top:42px;
+left:932px;
+
+}
+
+.tablewear {
+    position: absolute;
+top:42px;
+left:1031px;
+
+}
+
+.group {
+    /* Group */
+
+    position: absolute;
+    top:41px;
+    left:1206px;
+}
+
+.group:hover {
+    filter: invert(.5);
+}
+
+.vector {
+    
+    /* Vector */
+   
+    position: absolute;
+    top:41px;
+    left:1276px;
+   
+   
+   }
+   
+   .vector:hover {
+       filter: invert(.5);
+   }
+
+   

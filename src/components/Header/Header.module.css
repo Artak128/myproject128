@@ -1,0 +1,362 @@
+.home {
+    position: relative;
+    width: 1440px;
+    height: 3342px;
+    
+    background: #FFFFFF;
+}
+
+.arrow2 {
+    position: absolute;
+
+left: 720px;
+top: 467px;
+
+
+
+}
+
+
+.heading {
+    /* heading */
+
+position: absolute;
+width: 1440px;
+height: 868px;
+left: 0px;
+top: 0px;
+
+/* font-family: MADE Canvas;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 74px; */
+
+}
+
+.createyourcomfortzone {
+   
+
+    position: absolute;
+    width: 765px;
+    height: 74px;
+    left: 337px;
+    top: 273px;
+    
+    font-family: MADE Canvas;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 74px;
+    /* identical to box height */
+    
+    
+    color: #780202;
+
+}
+
+.rectangle1 {
+    position: absolute;
+    width: 1440px;
+    height: 868px;
+    left: 0px;
+    top: 0px;
+
+
+
+}
+
+.header {
+
+    /* header */
+
+position: absolute;
+width: 1170px;
+height: 62px;
+left: 135px;
+top: 30px;
+font-family: 'MADE Canvas';
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+
+
+
+
+
+}
+
+.your {
+
+    /* your */
+
+position: absolute;
+left: 0%;
+right: 92.91%;
+top: 0%;
+bottom: 14.52%;
+
+
+
+
+
+}
+
+.interior {
+
+    /* Interior */
+
+position: absolute;
+left: 2.91%;
+right: 83.08%;
+top: 45.16%;
+bottom: 0%;
+
+
+
+
+}
+
+
+.furniture:vizited {
+    color: #780202;
+    ;
+}
+
+
+
+
+
+
+
+.component1 {
+    /* Component 1 */
+
+position: absolute;
+left: 91.54%;
+right: 0%;
+top: 17.74%;
+bottom: 35.48%;
+
+}
+
+
+
+
+
+
+.group1 {
+    position: absolute;
+width: 200px;
+height: 60px;
+left: 620px;
+top: 377px;
+font-family: MADE Canvas;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+}
+
+.rectangle2 {
+    /* Rectangle 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+}
+
+.shopnow {
+    position: absolute;
+left: 29.5%;
+right: 29.5%;
+top: 33.33%;
+bottom: 31.67%;
+}
+
+.mainblock1 {
+    position: absolute;
+width: 1170px;
+height: 1344px;
+left: 135px;
+top: 928px;
+}
+
+/* .bestsellers {
+    position: absolute;
+width: 1180px;
+height: 611px;
+left: 125px;
+top: 2392px;
+} */
+
+.bestsellerstext {
+    position: absolute;
+    width: 192px;
+    height: 53px;
+    left: 624px;
+    top: 2392px;
+    
+    
+}
+
+.footer {
+    position: absolute;
+width: 1440px;
+height: 250px;
+left: 0px;
+top: 3092px;
+
+background: #EEEEEE;
+
+}
+
+.footertext {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+}
+.footertext .p9:hover {
+    text-shadow: 0px 0px 20px #780202;
+    font-size: 20px;
+    transition: 1s;
+}
+
+
+
+.p1 {
+   /* About Us */
+
+   position: absolute;
+   left: 9.44%;
+   right: 84.58%;
+   top: 93.43%;
+   bottom: 5.96%;
+}
+
+
+.p2 {
+    position: absolute;
+left: 9.44%;
+right: 79.1%;
+top: 94.5%;
+bottom: 4.9%;
+
+}
+
+.p3 {
+    position: absolute;
+left: 9.38%;
+right: 84.86%;
+top: 95.56%;
+bottom: 3.83%;
+}
+
+.p4 {
+    position: absolute;
+left: 27.92%;
+right: 64.79%;
+top: 93.43%;
+bottom: 5.96%;
+
+}
+
+.p5 {
+    position: absolute;
+left: 27.85%;
+right: 60.42%;
+top: 94.53%;
+bottom: 4.87%;
+
+}
+
+.p6 {
+    position: absolute;
+left: 46.74%;
+right: 50.69%;
+top: 93.43%;
+bottom: 5.96%;
+}
+
+.p7 {
+    position: absolute;
+left: 46.74%;
+right: 44.93%;
+top: 94.47%;
+bottom: 4.93%;
+}
+
+.p8 {
+    position: absolute;
+left: 62.22%;
+right: 23.54%;
+top: 93.43%;
+bottom: 5.96%;
+
+}
+
+.p9 {
+    position: absolute;
+left: 62.36%;
+right: 14.72%;
+top: 94.35%;
+bottom: 5.04%;
+}
+
+.b1 {
+    position: absolute;
+    top:2520px;
+    left:135px;
+    transition: 1s;
+  }
+  .b1:hover {
+      transform: scale(1.1);
+  }
+  
+  
+  .b2 {
+    position: absolute;
+    width: 278px;
+    height: 422px;
+    left: 431px;
+    top: 2520px;
+      transition: 1s;
+  }
+  .b2:hover {
+      transform: scale(1.1);
+  }
+  
+  .b3 {
+    position: absolute;
+    width: 278px;
+    height: 422px;
+    left: 729px;
+    top: 2520px;
+    
+      transition: 1s;
+  }
+  .b3:hover {
+      transform: scale(1.1);
+  }
+  
+  .b4 {
+    position: absolute;
+    width: 278px;
+    height: 422px;
+    left: 1027px;
+    top: 2520px;
+      transition: 1s;
+  }
+  .b4:hover {
+      transform: scale(1.1);
+  }

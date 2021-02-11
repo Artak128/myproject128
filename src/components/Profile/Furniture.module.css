@@ -1,0 +1,140 @@
+.productpage {
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    
+    background: #FFFFFF;
+
+
+}
+
+
+
+
+
+.filter {
+    position: absolute;
+width: 1170px;
+height: 31px;
+left: 135px;
+top: 152px;
+}
+
+.dropdown1 {
+   /* 1 */
+
+position: absolute;
+width: 178px;
+height: 31px;
+left: 135px;
+top: 152px;
+
+
+
+}
+
+.dropdown1:hover .dropdowncontent {
+    display: block;
+    
+  }
+
+.dropdowncontent {
+    display: none;
+    color: white;
+    position: absolute;
+    background-color: #780202;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    
+} 
+
+.dropdown2 {
+    position: absolute;
+    width: 178px;
+    height: 31px;
+    left: 333px;
+    top: 152px;
+
+}
+
+.dropdown3 {
+    position: absolute;
+width: 179px;
+height: 31px;
+left: 531px;
+top: 152px;
+    
+}
+
+.dropdown4 {
+    position: absolute;
+width: 179px;
+height: 31px;
+left: 729px;
+top: 152px;
+}
+
+.dropdown5 {
+    position: absolute;
+width: 178px;
+height: 31px;
+left: 928px;
+top: 152px;
+}
+
+.dropdown6 {
+    position: absolute;
+width: 180px;
+height: 31px;
+left: 1125px;
+top: 152px;
+}
+
+.b1 {
+  position: absolute;
+  top:288px;
+  left:135px;
+  transition: 1s;
+}
+.b1:hover {
+    transform: scale(1.1);
+}
+
+
+.b2 {
+    position: absolute;
+    width: 278px;
+    height: 422px;
+    left: 431px;
+    top: 288px;
+    transition: 1s;
+}
+.b2:hover {
+    transform: scale(1.1);
+}
+
+.b3 {
+    position: absolute;
+    width: 278px;
+    height: 422px;
+    left: 729px;
+    top: 288px;
+    transition: 1s;
+}
+.b3:hover {
+    transform: scale(1.1);
+}
+
+.b4 {
+    position: absolute;
+    width: 278px;
+    height: 422px;
+    left: 1027px;
+    top: 288px;
+    transition: 1s;
+}
+.b4:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,80 @@
+.addedtocard {
+    position: relative;
+width: 1440px;
+height: 900px;
+
+
+background: #FFFFFF;
+}
+
+.group34 {
+    position: absolute;
+width: 893px;
+height: 346px;
+left: 274px;
+top: 219px;
+
+}
+
+.cardnumber{
+    position: absolute;
+width: 174px;
+height: 17px;
+left: 680px;
+top: 329px;
+background-color: #780202;
+color: white;
+outline: none;
+border-color: #780202;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border:none;
+  
+
+}
+
+.expdate {
+    position: absolute;
+width: 44px;
+height: 17px;
+left: 518px;
+top: 443px;
+background-color: #780202;
+color: white;
+outline: none;
+border-color: #780202;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border:none;
+}
+
+.cvc {
+    position: absolute;
+width: 44px;
+height: 17px;
+left: 810px;
+top: 443px;
+background-color: #780202;
+color: white;
+outline: none;
+border-color: #780202;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border:none;
+}
+
+.name {
+    position: absolute;
+width: 110px;
+height: 17px;
+left: 744px;
+top: 386px;
+background-color: #780202;
+color: white;
+outline: none;
+border-color: #780202;
+  -webkit-box-shadow: none;
+  
+  box-shadow: none;
+  border:none;
+}
